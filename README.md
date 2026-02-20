@@ -1,8 +1,14 @@
 # 👨‍💻 Cauan André Celestino
 
-**`Desenvolvedora FullStack`**
+**`Full Stack Developer in Progress`**
 
-Sou estudante de Sistemas de Informação com foco em Desenvolvimento Web Full Stack. Possuo conhecimentos em HTML, CSS, lógica de sistemas e fundamentos de TI, além de compreensão sobre funcionamento de plataformas, integrações e estrutura de aplicações. Tenho experiência com organização de dados em CRM (HubSpot) e registro estruturado de demandas, o que fortalece minha visão sobre sistemas voltados ao usuário e regras de negócio. Busco oportunidade de estágio ou posição júnior para evoluir tecnicamente no desenvolvimento de aplicações web, contribuindo com organização, aprendizado contínuo e resolução de problemas.
+Sou estudante de Sistemas de Informação com foco em Desenvolvimento Web Full Stack. Possuo base em HTML, CSS e lógica de programação, além de fundamentos de TI que incluem noções de sistemas operacionais, redes e estrutura de aplicações. 
+
+Tenho experiência prática com organização de dados e registro estruturado de demandas em CRM (HubSpot), o que ampliou minha compreensão sobre regras de negócio, fluxo de informações e funcionamento de plataformas digitais. 
+
+Busco evoluir no desenvolvimento de aplicações web, aprofundando conhecimentos em front-end, back-end, APIs e banco de dados, sempre com foco em código limpo, organização e resolução eficiente de problemas.
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -23,6 +29,11 @@ Sou estudante de Sistemas de Informação com foco em Desenvolvimento Web Full S
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<br/>
+<br/>
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -31,14 +42,14 @@ Sou estudante de Sistemas de Informação com foco em Desenvolvimento Web Full S
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=cauan4c&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Languages" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauan4c&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  /> 
 
 </p>
