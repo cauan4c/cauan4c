@@ -8,8 +8,6 @@ Tenho experiência prática com organização de dados e registro estruturado de
 
 Busco evoluir no desenvolvimento de aplicações web, aprofundando conhecimentos em front-end, back-end, APIs e banco de dados, sempre com foco em código limpo, organização e resolução eficiente de problemas.
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -28,7 +26,6 @@ Busco evoluir no desenvolvimento de aplicações web, aprofundando conhecimentos
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <br/>
 <br/>
 
