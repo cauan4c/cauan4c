@@ -1,12 +1,25 @@
-# 👨‍💻 Cauan André Celestino
+# 👨‍💻 Cauan André Celestino  
+**Estudante de Sistemas de Informação | Foco em Dados (Análise e Engenharia)**  
 
-**`Full Stack Developer in Progress`**
+Sou estudante de Sistemas de Informação com foco em análise e engenharia de dados, desenvolvendo conhecimentos em Python, SQL e construção de pipelines ETL por meio de estudos práticos e projetos.
 
-Sou estudante de Sistemas de Informação com foco em Desenvolvimento Web Full Stack. Possuo base em HTML, CSS e lógica de programação, além de fundamentos de TI que incluem noções de sistemas operacionais, redes e estrutura de aplicações. 
+Tenho interesse em transformar dados em informações úteis, apoiando a tomada de decisão e a melhoria de processos, sempre com foco em organização, clareza e eficiência.
 
-Tenho experiência prática com organização de dados e registro estruturado de demandas em CRM (HubSpot), o que ampliou minha compreensão sobre regras de negócio, fluxo de informações e funcionamento de plataformas digitais. 
+## 💼 Experiência
 
-Busco evoluir no desenvolvimento de aplicações web, aprofundando conhecimentos em front-end, back-end, APIs e banco de dados, sempre com foco em código limpo, organização e resolução eficiente de problemas.
+Atuo com organização e registro estruturado de dados em CRM (HubSpot), garantindo qualidade, consistência e rastreabilidade das informações.
+
+Essa experiência me proporcionou contato com dados reais e desenvolvimento de raciocínio analítico, permitindo identificar padrões, compreender problemas e apoiar soluções orientadas a dados.
+
+## 🚀 Objetivo
+
+Busco evoluir na área de dados, aprofundando conhecimentos em:
+- Análise de dados  
+- Engenharia de dados  
+- Construção de pipelines ETL  
+- Manipulação e organização de dados  
+
+Tenho interesse em participar de projetos e oportunidades que permitam aplicar esses conhecimentos na prática.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -25,6 +38,22 @@ Busco evoluir no desenvolvimento de aplicações web, aprofundando conhecimentos
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <br/>
 <br/>
