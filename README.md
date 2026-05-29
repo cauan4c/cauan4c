@@ -2,7 +2,7 @@
 
 **Estudante de Sistemas de Informação | Análise de Dados | SQL | Excel | Python (em aprendizado)**
 
-Sou estudante de Sistemas de Informação com interesse em análise de dados, Business Intelligence e utilização de informações para apoiar processos e tomadas de decisão.
+Sou estudant de Sistemas de Informação com interesse em análise de dados, Business Intelligence e utilização de informações para apoiar processos e tomadas de decisão.
 
 Atualmente, desenvolvo conhecimentos em SQL, Excel e Python por meio de estudos, projetos acadêmicos e prática contínua, buscando compreender como dados podem gerar insights e contribuir para a melhoria de processos.
 
