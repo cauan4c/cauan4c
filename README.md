@@ -29,9 +29,9 @@ Tenho interesse em participar de projetos que contribuam para meu crescimento pr
 ## 🤖 Tecnologias e Ferramentas
 
 * SQL
-* Python (em aprendizado)
+* Python 
 * Excel
-* HubSpot CRM
+* Git e Github
 * HTML
 * CSS
 
