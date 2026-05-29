@@ -1,25 +1,47 @@
-# 👨‍💻 Cauan André Celestino  
-**Estudante de Sistemas de Informação | Foco em Dados (Análise e Engenharia)**  
+# 👨‍💻 Cauan André Celestino
 
-Sou estudante de Sistemas de Informação com foco em análise e engenharia de dados, desenvolvendo conhecimentos em Python, SQL e construção de pipelines ETL por meio de estudos práticos e projetos.
+**Estudante de Sistemas de Informação | Análise de Dados | SQL | Excel | Python (em aprendizado)**
 
-Tenho interesse em transformar dados em informações úteis, apoiando a tomada de decisão e a melhoria de processos, sempre com foco em organização, clareza e eficiência.
+Sou estudante de Sistemas de Informação com interesse em análise de dados, Business Intelligence e utilização de informações para apoiar processos e tomadas de decisão.
+
+Atualmente, desenvolvo conhecimentos em SQL, Excel e Python por meio de estudos, projetos acadêmicos e prática contínua, buscando compreender como dados podem gerar insights e contribuir para a melhoria de processos.
 
 ## 💼 Experiência
 
-Atuo com organização e registro estruturado de dados em CRM (HubSpot), garantindo qualidade, consistência e rastreabilidade das informações.
+Tenho experiência em atendimento ao cliente, pré-vendas e operações digitais, atuando com organização, atualização e acompanhamento de informações em CRM (HubSpot).
 
-Essa experiência me proporcionou contato com dados reais e desenvolvimento de raciocínio analítico, permitindo identificar padrões, compreender problemas e apoiar soluções orientadas a dados.
+Essa vivência me proporcionou contato com dados reais, controle de informações, acompanhamento de processos e utilização de ferramentas digitais, além do desenvolvimento de organização, atenção aos detalhes e raciocínio analítico.
 
 ## 🚀 Objetivo
 
-Busco evoluir na área de dados, aprofundando conhecimentos em:
-- Análise de dados  
-- Engenharia de dados  
-- Construção de pipelines ETL  
-- Manipulação e organização de dados  
+Busco oportunidades de estágio e desenvolvimento profissional que me permitam aplicar e expandir conhecimentos em:
 
-Tenho interesse em participar de projetos e oportunidades que permitam aplicar esses conhecimentos na prática.
+* Análise de Dados
+* SQL
+* Excel
+* Business Intelligence (BI)
+* Visualização de Dados
+* Organização e Tratamento de Dados
+* Automação de Processos
+
+Tenho interesse em participar de projetos que contribuam para meu crescimento profissional e para a geração de valor por meio dos dados.
+
+## 🤖 Tecnologias e Ferramentas
+
+* SQL
+* Python (em aprendizado)
+* Excel
+* HubSpot CRM
+* HTML
+* CSS
+
+## 📚 Atualmente Estudando
+* Banco de Dados
+* SQL para Análise de Dados
+* Python
+* Excel
+* Fundamentos de Business Intelligence
+* Sistemas de Informação
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -49,11 +71,11 @@ Tenho interesse em participar de projetos e oportunidades que permitam aplicar e
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <br/>
 <br/>
